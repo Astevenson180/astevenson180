@@ -13,5 +13,5 @@
 
 ### Medium Blogs
 <!-- BLOG-POST-LIST:START -->
-
+- [Closing the Opportunity Divide: Year Up Organization](https://medium.com/year-up/closing-the-opportunity-divide-year-up-organization-bf9bd1dceb96?source=rss-bbd14a0169ab------2)
 <!-- BLOG-POST-LIST:END -->
