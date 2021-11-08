@@ -1,5 +1,5 @@
 <h1 align="center">
-  Alex Stevenson | Developer
+  Alexander Stevenson | Developer
 </h1>
 
 <p align="center">
@@ -11,8 +11,7 @@
   </a>
 </p>
 
-
-## Medium Articles
+### Medium Blogs
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
