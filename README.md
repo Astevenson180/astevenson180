@@ -13,7 +13,7 @@
 
 
 ### Languages
-<hr>
+<br>
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
@@ -22,7 +22,7 @@
 </a>
 
 ### Software Tools
-<hr>
+<br>
 <a href="https://www.jetbrains.com/pycharm/download/#section=windows">
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 </a>
@@ -34,7 +34,7 @@
 </a>
 
 ### Operating Systems
-<hr>
+<br>
 <a href="https://www.microsoft.com/en-us/windows">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </a>
@@ -43,12 +43,13 @@
 </a>
 
 ### Connect
-<hr>
+<br>
 <a href="https://linkedin.com/in/astevenson180">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 ### Medium Blogs
+<br>
 <!-- BLOG-POST-LIST:START -->
 - [Closing the Opportunity Divide: Year Up Organization](https://medium.com/year-up/closing-the-opportunity-divide-year-up-organization-bf9bd1dceb96?source=rss-bbd14a0169ab------2)
 <!-- BLOG-POST-LIST:END -->
