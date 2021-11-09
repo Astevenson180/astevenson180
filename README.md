@@ -11,6 +11,12 @@
   </a>
 </p>
 
+### Connect with me
+[<img align="left" alt="linked-in" src="https://img.shields.io/bade/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/astevenson180)
+
+
+
+
 ### Medium Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Closing the Opportunity Divide: Year Up Organization](https://medium.com/year-up/closing-the-opportunity-divide-year-up-organization-bf9bd1dceb96?source=rss-bbd14a0169ab------2)
